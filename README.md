@@ -36,13 +36,13 @@ Iris veri seti, UCI Machine Learning Repository'de bulunmaktadır. Veri setine [
 
 ## Kullanım
 
-1. Proje klasöründe bulunan `gradient_descent.py` dosyasını çalıştırarak gradient inişi ile modeli eğitebilirsiniz.
+1. Proje klasöründe bulunan `Gradient Descent for Iris.py` dosyasını çalıştırarak gradient inişi ile modeli eğitebilirsiniz.
 
     ```
     Gradient Descent for Iris.py
     ```
 
-2. Eğitilmiş modelin sonuçlarını görmek için `iris_classification.ipynb` Jupyter Notebook dosyasını kullanabilirsiniz.
+2. Eğitilmiş modelin sonuçlarını görmek için `Gradient Descent for Iris.py` python dosyasını kullanabilirsiniz.
 
 ## Model Eğitimi
 
